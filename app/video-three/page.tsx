@@ -21,6 +21,7 @@ export default function VideoThree() {
                         <IoIosArrowBack size={40} />
                     </Link>
                 </div>
+                <h1 className='absolute top-24 left-24 text-white text-9xl'>Video 3</h1>
             </div>
         </section>
     )

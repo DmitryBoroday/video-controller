@@ -21,6 +21,7 @@ export default function VideoOne() {
                       <IoIosArrowForward size={40} />
                   </Link>
               </div>
+              <h1 className='absolute top-24 left-24 text-white text-9xl'>Video 1</h1>
           </div>
     </section>
   )
